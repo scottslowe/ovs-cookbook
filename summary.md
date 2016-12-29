@@ -1,6 +1,6 @@
 ---
 book: Open vSwitch Cookbook
-author: Scott Lowe
+author: Scott S. Lowe
 ---
 
 # Table of Contents
