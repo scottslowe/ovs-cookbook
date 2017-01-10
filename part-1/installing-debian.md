@@ -12,7 +12,7 @@ You have one or more systems running Debian GNU/Linux on which you need to insta
 
 ## Solution
 
-_TODO_
+As of Debian 8.0 ("Jessie"), packages for OVS are available in the default Debian repositories and can be installed using `apt-get` or `apt`.
 
 ## Details
 
