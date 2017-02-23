@@ -12,8 +12,9 @@ author: Scott S. Lowe
 * [Recipe 1.2: Installing OVS on Ubuntu](part-1/installing-ubuntu.md)
 * [Recipe 1.3: Installing OVS on Debian](part-1/installing-debian.md)
 * [Recipe 1.4: Installing OVS on CentOS](part-1/installing-centos.md)
-* [Recipe 1.5: Installing OVS on Fedora](part-1/installing-fedora.md)
-* [Recipe 1.6: Installing OVS on Hyper-V](part-1/installing-hyperv.md)
+* [Recipe 1.5: Installing OVS on CentOS Atomic Host](part-1/installing-atomic.md)
+* [Recipe 1.6: Installing OVS on Fedora](part-1/installing-fedora.md)
+* [Recipe 1.7: Installing OVS on Hyper-V](part-1/installing-hyperv.md)
 
 ## Part 2: Basic Configurations
 

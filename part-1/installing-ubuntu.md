@@ -4,7 +4,7 @@ section: Installation
 author: Scott S. Lowe
 ---
 
-# Installing OVS on Ubuntu
+# Recipe 1.2: Installing OVS on Ubuntu
 
 ## Problem
 

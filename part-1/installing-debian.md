@@ -4,7 +4,7 @@ section: Installation
 author: Scott S. Lowe
 ---
 
-# Installing OVS on Debian
+# Recipe 1.3: Installing OVS on Debian
 
 ## Problem
 

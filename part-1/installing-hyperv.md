@@ -4,7 +4,7 @@ section: Installation
 author: Scott S. Lowe
 ---
 
-# Installing OVS on Hyper-V
+# Recipe 1.7: Installing OVS on Hyper-V
 
 ## Problem
 

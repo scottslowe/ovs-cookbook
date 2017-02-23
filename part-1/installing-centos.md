@@ -4,7 +4,7 @@ section: Installation
 author: Scott S. Lowe
 ---
 
-# Installing OVS on CentOS 7
+# Recipe 1.4: Installing OVS on CentOS 7
 
 ## Problem
 

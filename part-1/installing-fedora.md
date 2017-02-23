@@ -4,7 +4,7 @@ section: Installation
 author: Scott S. Lowe
 ---
 
-# Installing OVS on Fedora 23/24/25
+# Recipe 1.6: Installing OVS on Fedora 23/24/25
 
 ## Problem
 

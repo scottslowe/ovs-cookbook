@@ -4,7 +4,7 @@ section: Installation
 author: Scott S. Lowe
 ---
 
-# Compiling OVS from Master
+# Recipe 1.1: Compiling OVS from Master
 
 ## Problem
 
