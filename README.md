@@ -1,6 +1,3 @@
----
-section: Introduction
-author: Scott S. Lowe
----
+# Discontinued
 
-Open vSwitch (OVS) is now considered the _de facto_ virtual switching solution for Linux environments. This cookbook aims to serve as a collection of essential hands-on recipes for installing, using, and configuring OVS in a variety of environments.
+As of 28 March 2017, this project has been discontinued and **will not** be developed or maintained. Instead, content will be added to the [Open vSwitch (OVS) documentation](http://docs.openvswitch.org/en/latest/).
